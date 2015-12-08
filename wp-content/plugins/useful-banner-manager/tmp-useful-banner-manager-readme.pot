@@ -1,0 +1,138 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Name.
+msgid "Useful Banner Manager"
+msgstr ""
+
+#. Short description.
+msgid "This banner manager plugin helps to manage the banners easily over the WordPress blog. It works with BuddyPress too."
+msgstr ""
+
+#. Screenshot description.
+msgid "Manage Banners"
+msgstr ""
+
+#. Found in description header.
+msgid "Translations"
+msgstr ""
+
+#. Found in description list item.
+msgid "Español - Thanks to Maria Ramos from <a href=\"http://webhostinghub.com/\">Webhostinghub.com</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "Français - Thanks to Therese Lachance"
+msgstr ""
+
+#. Found in description list item.
+msgid "Polskie - Thanks to Michał Rybak <a href=\"http://mrybak.pl/\">mrybak.pl</a>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "There are many WordPress blogs which have or need to have banners on them. So a banner manager plugin is very useful for those blogs. This plugin is created for it. The plugin helps to manage the banners over the Wordpress blog. It is very easy to use. Try it and be assured."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "P.S."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Wishing you to earn much money by banners advertising. :)"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<a href=\"http://rubensargsyan.com/wordpress-plugin-useful-banner-manager\">Plugin Homepage</a>"
+msgstr ""
+
+#. Found in installation header.
+msgid "Add banners"
+msgstr ""
+
+#. Found in installation header.
+msgid "Add banners rotations"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Download useful-banner-manager.zip, unzip it and upload the useful-banner-manager directory (including all files within) to the /wp-content/plugins/ directory."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Activate the plugin through the Plugins menu in WordPress."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Go to \"Banner Manager\" panel and add banners."
+msgstr ""
+
+#. Found in installation list item.
+msgid "To show the banners in the sidebar, go to the \"Appearance\"-&gt;\"Widgets\" panel and drag-and-drop the \"UBM banners\" box into your sidebar, configure options and save them."
+msgstr ""
+
+#. Found in installation list item.
+msgid "To show the banners in a post or a page, add [useful_banner_manager banners=2,6 count=1] (where the numbers 2 and 6 (banners=2,6) are the IDs of the banners which would be shown, the number 1 (count=1) is the count of the banners which would be shown) into the post or the page."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Also the banners can be shown by adding <code>&lt;?php if ( function_exists( 'useful_banner_manager_banners' ) ) { useful_banner_manager_banners( '2,6', 1 ); } ?&gt;</code> (where the first argument ('2,6') is a string of the banners' IDs, separated by commas, and the second argument is the banners' count which would be shown)."
+msgstr ""
+
+#. Found in installation list item.
+msgid "To show the banners rotations in the sidebar, go to the \"Appearance\"-&gt;\"Widgets\" panel and drag-and-drop the \"UBM banners rotation\" box into your sidebar, configure the options and save them."
+msgstr ""
+
+#. Found in installation list item.
+msgid "To show the banners in a post or a page, add [useful_banner_manager_banner_rotation banners=2,6 interval=5 width=468 height=60 orderby=rand] (where the numbers 2 and 6 (banners=2,6) are the IDs of the banners which would be shown, the number 5 (interval=1) is the seconds of the delay between banners rotations, the numbers 468 and 60 are the width and height of the banners which will be rotating and set \"orderby\" option to \"rand\" to show the banners in random order or \"order\" (orderby=rand or orderby=order)) into the post or the page."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Also the banners rotations can be shown by adding <code>&lt;?php if ( function_exists( 'useful_banner_manager_banners_rotation' ) ) { useful_banner_manager_banners_rotation( '2,6', 5, 468, 60, 'rand' ); } ?&gt;</code> (where the first argument ('2,6') is a string of the banners' IDs, separated by commas,  the second argument (5) is the seconds of the delay between banners rotations, the third and forth arguments (468 and 60) are the width and height of the banners which will be rotating and put the fifth argument ('rand'), which is optional, to show the banners in random order)."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "The image banners can be displayed without \"width\" and \"height\" attributes, so they can be made responsive."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Polish translation is added."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "The conflict with qTranslate plugin is solved."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed some bugs."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Spanish and French translations are added."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added new options for banners - \"Wrapper ID\" (ID of the tag \"div\" wrapping the banner) and \"Wrapper Class\" (Class or classes of the tag \"div\" wrapping the banner)."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Now you can select all banners in the shortcodes without adding their ids."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Flash banners and lightboxes conflict is removed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added banners rotation function."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added new options for banners - \"Image Alt\" and \"Link Rel\"."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "First release."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "For questions contact with the plugin author - <a href=\"http://rubensargsyan.com/contact\">Ruben Sargsyan</a>."
+msgstr ""

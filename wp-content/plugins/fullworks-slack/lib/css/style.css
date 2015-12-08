@@ -1,0 +1,21 @@
+.joinslack-widget input {
+  margin-bottom: 18px;
+}
+.joinslack-widget input[type=submit] {
+  width:100%;
+}
+.join-slack  div.error {
+  background-color: #ff0000;
+  color: #ffffff;
+  padding: 5px;
+  border-left: 5px #000000 solid;
+}
+.join-slack  div.success {
+  background-color: #00FF00;
+  color: #000000;
+  padding: 5px;
+  border-left: 5px #000000 solid;
+}
+.joinslack-widget {
+  max-width:330px;
+}

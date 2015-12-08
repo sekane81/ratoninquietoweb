@@ -1,0 +1,174 @@
+
+.mo2f_powered_by_miniorange{
+	width: 100px;
+	height: 30px;
+	-webkit-background-size: 100px 25px;
+	background-size: 100px 25px;
+	background-repeat: no-repeat;
+	display: inline-block;
+	vertical-align: middle;
+}
+.mo2f_powered_by_div{
+	text-align: right;
+	font-size: 9px;
+	padding-right:2%;
+	background-color: #FFFFFF;
+}
+
+.mo2f-login-container{
+	display:inline-block !important;
+	display:-moz-inline-stack !important;
+	text-align:center !important;
+	width:250px !important;
+	
+}
+.mo2f-textbox{
+	width: 100% !important;
+	margin: 15px 0px !important;
+	background-color: rgba(123, 110, 110, 0.06) !important;
+	border-radius: 4px !important;
+}
+.mo2f-button{
+	width: 100% !important;
+	color: #fff !important;
+	
+	height: 30px !important;
+	
+	font-size: 14px !important;
+	padding: 0 12px 2px !important;
+	background-color: #f0ad4e !important;
+	border-color: #eea236 !important;
+	-webkit-appearance: none;
+	-webkit-border-radius: 3px !important;
+	border-radius: 3px !important;
+
+	
+}
+
+.mo2fa_display_message_frontend{
+	text-align:center !important;
+}
+
+.mo2f-link{
+	color:  #0191BF  !important;
+	font-size:14px !important;
+	font-weight: bold !important;
+	cursor: pointer !important;
+}
+.mo_green{
+	background:green !important;
+	border-color:green !important;
+	width:37% !important;
+}
+.mo_red{
+	background:rgb(247, 38, 38) !important;
+	border-color:rgb(247, 38, 38) !important;
+	width:37% !important;
+}
+
+
+.showQRHelp, .showOTPHelp{
+	background-color: rgba(215, 217, 218, 0.78) !important;
+	text-align:center !important;
+	
+}
+
+.miniorange-button{
+	height: 30px ;
+	display: inline-block;
+	font-size: 14px;
+	line-height: 28px;
+	padding: 0 12px 2px;
+	border-width: 1px;
+	vertical-align: baseline;
+	background-color: #f0ad4e !important;
+	border-color: #eea236 !important;
+	-webkit-appearance: none;
+	border-style: solid;
+	-webkit-border-radius: 3px !important;
+	border-radius: 3px !important;
+	white-space: nowrap;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+
+	color: #fff;
+	text-decoration: none;
+	cursor:pointer;
+}
+
+
+.mo_hr{
+	border-top: 1px solid rgba(220, 214, 214, 0.25) !important;
+	margin-top: 5px !important;
+	margin-right: 10px !important;
+}
+
+.mo_margin_left{
+	margin-left:20px !important;
+}
+
+
+
+.mo_app_link{
+	text-decoration: none !important;
+	color: #000 !important;
+}
+
+
+
+.mo2f_td_show{
+	display:grid !important;
+}
+
+.mo2f_td_hide{
+	display:none !important;
+}
+
+.mo2f_label{
+	font-weight: 100 !important;
+	margin: 10px !important;
+	
+}
+
+
+.mo2f_kba_ques{
+	width:370px !important;
+	border-radius:4px !important;
+	height:30px !important;
+	font-size:14px !important;
+}
+
+.mo2f_kba_table{
+	padding:0 10px;
+	width:100%;
+}
+
+.mo2f_kba_tb_data{
+	padding-left:15px;
+}
+
+.mo2f_table_textbox {
+	width:150px;
+	border-radius:4px !important;
+	height:30px !important;
+	font-size:14px !important;
+	
+}
+
+.mo2f_kba_header{
+	font-weight:bold;
+}
+
+.mo2f_separator{
+	border-left: 1px solid #EBECEC; padding: 5px;
+}
+
+.mo2f_authn_header{
+	font-size: 14px !important;
+}
+
+
+
+
+
